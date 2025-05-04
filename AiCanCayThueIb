@@ -55,7 +55,7 @@ TestLabelEN.Position = UDim2.new(0.5, -100, 0.4, -25)
 
 TestLabelEN.Font = Enum.Font.SourceSansBold
 
-TestLabelEN.Text = "Cày Thuê Blox Fruits IB"
+TestLabelEN.Text = "Cày Thuê Blox Fruits IB Tiểu Sử"
 
 TestLabelEN.TextColor3 = Color3.fromRGB(255, 255, 255)
 
@@ -75,7 +75,7 @@ TestLabelVN.Position = UDim2.new(0.5, -100, 0.5, -25)
 
 TestLabelVN.Font = Enum.Font.SourceSansBold
 
-TestLabelVN.Text = "Tiktok: @fixlagmobile_caythue"
+TestLabelVN.Text = "Cày Thuê Blox Fruits IB Tiểu Sử"
 
 TestLabelVN.TextColor3 = Color3.fromRGB(255, 255, 255)
 
